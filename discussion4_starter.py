@@ -1,4 +1,7 @@
 class Rectangle():
+    def __init__(self, width, height):
+        self.width = width
+        self.height = height
     # Create the constructor "__init__" method
     # Arguments: width (an ingeter), height (an integer)
     # 
@@ -6,6 +9,7 @@ class Rectangle():
     # It sets an instance variable, "height" to the passed argument, height
 
     # YOUR CODE HERE
+
 
 
 
